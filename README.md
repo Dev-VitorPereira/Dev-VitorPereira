@@ -1,8 +1,3 @@
-<h1 align="center">Olá! 👋 Me chamo Vitor </h1>
-<p align="center">🚀 Estudante de Engenharia de Software | Desenvolvedor em formação | Apaixonado por tecnologia</p>
-
----
-
 ### 💻 Sobre mim
 
 🎓 Atualmente estou estudando **Engenharia de Software**  
