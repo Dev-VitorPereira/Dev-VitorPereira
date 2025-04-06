@@ -26,10 +26,10 @@
 
 ### 📌 Repositórios em destaque
 
-- [🧾 Aula de Spring Boot]([https://github.com/seu-usuario/aula-spring-boot](https://github.com/Dev-VitorPereira/AulaSpringBoot))  
+- [🧾 Aula de Spring Boot](https://github.com/Dev-VitorPereira/AulaSpringBoot)  
   Pequeno sistema com API REST, banco H2, JPA e mapeamento relacional → objeto → JSON.
 
-- [📚 CodeCheat (em construção)]([https://github.com/seu-usuario/codecheat](https://github.com/Dev-VitorPereira/projeto_1))  
+- [📚 CodeCheat (em construção)](https://github.com/Dev-VitorPereira/projeto_1)  
   Repositório voltado para ajudar devs iniciantes com cheatsheets, boas práticas e frameworks.
 
 ---
